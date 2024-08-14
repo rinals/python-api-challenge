@@ -1,5 +1,8 @@
 # Weather and vacation Data Analysis
 
+## Code Source:
+This assignment was completed with the help of Justin Moore from tutoring sessions, Brian Perry TA, Google and Chat GPT.
+
 ## Overview
 
 This repository contains two Jupyter Notebooks, WeatherPy and VacationPy, which together form a comprehensive analysis of global weather patterns and provide practical insights for selecting vacation destinations based on favorable weather conditions. The analysis leverages data from the OpenWeatherMap API to explore the relationships between various weather parameters and geographical latitude, and uses this information to identify ideal vacation spots.
